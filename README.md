@@ -1,2 +1,2 @@
 # My-first-website-
-The website is about a hotel I built with a mobile phone code editor 
+The website is about a hotel website I built with a mobile phone code editor 
